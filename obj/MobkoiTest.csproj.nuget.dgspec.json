@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Cristi\\source\\repos\\MobkoiTest\\MobkoiTest\\MobkoiTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Cristi\\source\\repos\\MobkoiTest\\MobkoiTest\\MobkoiTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cristi\\source\\repos\\MobkoiTest\\MobkoiTest\\MobkoiTest.csproj",
+        "projectName": "MobkoiTest",
+        "projectPath": "C:\\Users\\Cristi\\source\\repos\\MobkoiTest\\MobkoiTest\\MobkoiTest.csproj",
+        "packagesPath": "C:\\Users\\Cristi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cristi\\source\\repos\\MobkoiTest\\MobkoiTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Cristi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.95.4, )"
+            },
+            "Infodinamica.Framework.Exportable": {
+              "target": "Package",
+              "version": "[2.0.1.18715, )"
+            },
+            "Microsoft.CrmSdk.XrmTooling.CoreAssembly": {
+              "target": "Package",
+              "version": "[9.1.0.92, )"
+            },
+            "Microsoft.SqlServer.SqlManagementObjects": {
+              "target": "Package",
+              "version": "[161.47008.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.102\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

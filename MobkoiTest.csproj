@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net472</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ClosedXML" Version="0.95.4" />
+    <PackageReference Include="Infodinamica.Framework.Exportable" Version="2.0.1.18715" />
+    <PackageReference Include="Microsoft.CrmSdk.XrmTooling.CoreAssembly" Version="9.1.0.92" />
+    <PackageReference Include="Microsoft.SqlServer.SqlManagementObjects" Version="161.47008.0" />
+  </ItemGroup>
+
+</Project>
